@@ -1,6 +1,8 @@
 **Global Expense Money Tracker (GEMT)**
+----------------------------------------
 
 **Background:**
+---------------
 
 In today's interconnected world, managing finances across different currencies, regions, and income
 streams can be challenging. The Global Expense Money Tracker System (GEMT) aims to address this
@@ -8,6 +10,7 @@ issue by providing a comprehensive platform for users to track expenses, manage 
 financial resources effectively.
 
 **Problems Statement:**
+------------------------
 
 1. **Manual Processes (Excel):** Users currently rely on manual processes, such as spreadsheets in
 Excel, for financial tracking, which are time-consuming and prone to errors.
@@ -22,6 +25,7 @@ health and spending patterns.
 savings accounts, loans, and withdraw.
 
 **Solutions:**
+---------------
 
 1. Develop a system that automates financial tracking and management processes, reducing
 reliance on manual methods like Excel spreadsheets,Introduce a user-friendly landing page and
@@ -36,25 +40,29 @@ management tools including repayment schedules, provide secure withdrawal option
 authentication and transaction tracking.
 
 **Conclusion and Recommendations:**
+------------------------------------
 The Global Expense Money Tracker System (GEMT) is designed to revolutionize the way individuals
 manage their finances globally. By addressing common challenges such as lack of organization,
 inefficient budgeting, complex money management, cross-currency issues, and limited access to
 financial resources.
 
 **Recommendations:**
+---------------------
 1. Continuously update and enhance user interfaces for optimal user experience.
 2. Conduct regular user feedback sessions to identify areas for improvement.
 
 **INSTRALLATION**
 ------------------
-1.Download the zip file
-2.Extract the file folder
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
-4.Open PHPMyAdmin (http://localhost/phpmyadmin)
-5.Create a database with name gemt_db
-6.Import buspassdb.sql file(given inside the zip package in SQL file folder)
-7.Run the script http://localhost/Global-Expense-Money-Tracker
+1.Download the zip file.
+2.Extract the file folder.
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html).
+4.Open PHPMyAdmin (http://localhost/phpmyadmin).
+5.Create a database with name gemt_db.
+6.Import buspassdb.sql file(given inside the zip package in SQL file folder).
+7.Run the script http://localhost/Global-Expense-Money-Tracker.
 
 **User Credential**
-Username: ishimwechristi94@gmail.com
-Password: 123
+-------------------
+
+Username: ishimwechristi94@gmail.com.
+Password: 123.
